@@ -59,4 +59,5 @@ because resources are elastically provisioned and released.
 
 5. MEASURED SERVICE:
 means that you only pay for what you use or reserve as you go, if you’re not using resources, you’re not paying. 
+ Resource usage is monitored, measured, and reported transparently based on utilization.
 
