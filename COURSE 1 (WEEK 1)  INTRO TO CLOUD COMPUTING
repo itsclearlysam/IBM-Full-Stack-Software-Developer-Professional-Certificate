@@ -53,10 +53,10 @@ mechanisms and platforms such as mobile phones, tablets, laptops, and workstatio
 what gives cloud providers economies of scale, which they pass on to their customers,
 making cloud cost-efficient. 
 
-3. RAPID ELASTICTIY:
+4. RAPID ELASTICTIY:
 implies that you can access more resources when you need them, and scale back when you don’t,
 because resources are elastically provisioned and released.
 
-6. MEASURED SERVICE:
+5. MEASURED SERVICE:
 means that you only pay for what you use or reserve as you go, if you’re not using resources, you’re not paying. 
 
